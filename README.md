@@ -6,9 +6,9 @@
 <ul>
 	<li>Slides from my presentation "<a href="https://github.com/gebelo/training2017/blob/master/wrong.pptx">How Not To Be Wrong</a>"</li>
 	<li>Workshop -- SQL 4: <a href="https://github.com/gebelo/dataharvest2016">String functions and subqueries</a></li>
-	<li>Workshop -- <a href="https://docs.google.com/a/nytimes.com/document/d/1GtB9hAi-zmddjXRIXBAKJFXe5F-c5oeeSb2216bj0Qg/pub">QGIS I and II</a></li>
-	<li>Workshop -- <a href="https://docs.google.com/a/nytimes.com/document/d/1vmtu_ZRdqUh81fNkPnB0t7bZSri0WkfYG0-SOtqypVg/pub">Make Parsing Great Again With Regex</a></li>
-	<li>Workshop -- <a href="https://docs.google.com/a/nytimes.com/document/d/1BwFmzuwplbyNdYWHbtp7Irn9KdoPaag6MpBeD_1aWFg/pub">Beautiful Online Maps in Minutes with Leaflet</a></li>
+	<li>Workshop -- <a href="https://github.com/gebelo/training2017/blob/master/qgis.pdf">QGIS I and II</a></li>
+	<li>Workshop -- <a href="https://github.com/gebelo/training2017/blob/master/regex.pdf">Make Parsing Great Again With Regex</a></li>
+	<li>Workshop -- <a href="https://github.com/gebelo/training2017/blob/master/leaflet.pdf">Beautiful Online Maps in Minutes with Leaflet</a></li>
 	</ul>
 	<br>
 
