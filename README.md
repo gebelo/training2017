@@ -10,6 +10,7 @@
 	<li>Workshop -- <a href="https://github.com/gebelo/training2017/blob/master/regex.pdf">Make Parsing Great Again With Regex</a></li>
 	<li>Workshop -- <a href="https://github.com/gebelo/training2017/blob/master/leaflet.pdf">Beautiful Online Maps in Minutes with Leaflet</a></li>
 	</ul>
+	<br>Note: For the workshop PDF files, it's best to download the files and open in your PDF viewer.<br>
 	<br>
 
 <h2>IRE New York Watchdog Workshop</h2> 
